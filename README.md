@@ -13,7 +13,7 @@ This repository provides a script to call the Cloud identity API to set an amoun
 
 Basic usage of this script is as follows:
 ```
-usage: group_expiration_membership.py [-h] --group_id GROUP_ID --member_key MEMBER_KEY [--hours HOURS]
+python3 group_expiration_membership.py [-h] --group_id GROUP_ID --member_key MEMBER_KEY [--hours HOURS]
 
 Required arguments:
   --group_id GROUP_ID   The email address of Google Group.
