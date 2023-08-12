@@ -1,7 +1,7 @@
 # Google Group Automatic membership expiration
-This repository provides a script to call the Cloud identity API to set an amount of time in hours for an identity (human or service accounts) of a Google group. After the time expires, the identity will be removed from the group automatically. Automatic membership expiration can help reduce the administrative overhead for managing groups, and can help ensure group membership is limited to the members that need access. 
+This repository provides a script to call the Cloud identity API to set an amount of time in hours for an identity (human or service accounts) of a Google group. After the time expires, the identity will be removed from the group automatically. Automatic membership expiration can help reduce the administrative overhead for managing groups, and can help ensure group membership is limited to the members that need access.
 
-- Add an identity to a Google group with expiration 
+- Add an identity to a Google group with expiration
 
 ## Architecture
 ![Automatic membership expiration](diagram/google_expire.png)
