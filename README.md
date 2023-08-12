@@ -28,6 +28,9 @@ Optional argument:
 
 These sections describe requirements including license and software requirements.
 
+## Authetication
+[Application Default Creditials](https://cloud.google.com/docs/authentication/application-default-credentials) was used to demo the script, but for production usage a service account should be used. 
+
 ### License
 
 Either Google Workspace Enterprise Standard, Enterprise Plus, G Suite Enterprise for Education, or Cloud Identity Premium.
@@ -37,6 +40,7 @@ Either Google Workspace Enterprise Standard, Enterprise Plus, G Suite Enterprise
 The following dependencies must be available:
 
 - [Python][version 3] v3.10
+- [Cloud Identity API](https://cloud.google.com/identity/docs/reference/rest)
 
 ### APIs
 
