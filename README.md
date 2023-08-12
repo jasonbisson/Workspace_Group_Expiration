@@ -36,7 +36,7 @@ Either Google Workspace Enterprise Standard, Enterprise Plus, G Suite Enterprise
 
 The following dependencies must be available:
 
-- [Python][] v3.10
+- [Python][version 3] v3.10
 
 ### APIs
 
