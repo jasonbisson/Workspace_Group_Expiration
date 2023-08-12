@@ -28,7 +28,7 @@ Optional argument:
 
 These sections describe requirements including license and software requirements.
 
-## Authetication
+### Authetication
 [Application Default Creditials](https://cloud.google.com/docs/authentication/application-default-credentials) was used to demo the script, but for production usage a service account should be used. 
 
 ### License
