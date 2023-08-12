@@ -4,7 +4,7 @@ This repository provides a script to call the Cloud identity API to set an amoun
 - Add an identity to a Google group with expiration 
 
 ## Architecture
-![Automatic membership expiration](diagram/expire.png)
+![Automatic membership expiration](diagram/google_expire.png)
 
 ## Documentation
 - [Automatic membership expiration](https://workspaceupdates.googleblog.com/2021/02/automatic-membership-expiration-google-groups-generally-available.html)
