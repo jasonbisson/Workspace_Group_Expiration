@@ -31,6 +31,9 @@ These sections describe requirements including license and software requirements
 ### Authetication
 [Application Default Creditials](https://cloud.google.com/docs/authentication/application-default-credentials) was used to demo the script, but for production usage a service account should be used. 
 
+## Permission
+The identity running the script will require the Group Admin IAM role for the Google Admin console (not Google Cloud console).
+
 ### License
 
 Either Google Workspace Enterprise Standard, Enterprise Plus, G Suite Enterprise for Education, or Cloud Identity Premium.
